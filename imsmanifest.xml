@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6T6GzFaEHDR" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Cambridge</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Cambridge_ORG">
+    <organization identifier="Cambridge_ORG">
+      <title>Cambridge</title>
+      <item identifier="Cambridge_SCO" isvisible="true" identifierref="__6T6GzFaEHDR_RES">
+        <title>Cambridge</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6T6GzFaEHDR_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/6W6fvNhXqJ4_44100_56_0.mp3" />
+      <file href="mobile/62yZBenQH81.png" />
+      <file href="story_content/6iRTfwfwYxk_44100_56_0.mp3" />
+      <file href="mobile/6VwglarU2nY.png" />
+      <file href="mobile/6rilZunj7F9.png" />
+      <file href="mobile/6Psiik8BriW.png" />
+      <file href="mobile/5sobGcgLxRy.png" />
+      <file href="mobile/5aYutIu2iZF.png" />
+      <file href="mobile/5Yxqg3PGiRG.png" />
+      <file href="mobile/5kqFub86Uhf.png" />
+      <file href="story_content/6jdgLHx6RGL_44100_56_0.mp3" />
+      <file href="story_content/5W0aE3rTyOr_44100_56_0.mp3" />
+      <file href="mobile/6UsLzHrIIFa.jpg" />
+      <file href="mobile/6HdR6kUYTki.jpg" />
+      <file href="mobile/5agElouWQK7.jpg" />
+      <file href="story_content/6PQzsF3ZnEm_44100_56_0.mp3" />
+      <file href="mobile/5kkDE5cY61o.png" />
+      <file href="mobile/5c9yeUCSEb1.png" />
+      <file href="mobile/6RdpYX2LWHs.png" />
+      <file href="mobile/6cNnilo0HKZ.png" />
+      <file href="mobile/5u0mDXzcy51.png" />
+      <file href="mobile/6IZIMj2yLPL.png" />
+      <file href="mobile/6GZTaTC63AE.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5bOcAXEhLkc.js" />
+      <file href="html5/data/js/5bysqZ5gKNj.js" />
+      <file href="html5/data/js/5mmWf9aazkt.js" />
+      <file href="html5/data/js/626H63CyMWe.js" />
+      <file href="html5/data/js/65VdlLMpbUG.js" />
+      <file href="html5/data/js/6b4lvuFgYkz.js" />
+      <file href="html5/data/js/6EIZ9fP92R5.js" />
+      <file href="html5/data/js/6lB5kSPIqVr.js" />
+      <file href="html5/data/js/6PZgkzei7V6.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
